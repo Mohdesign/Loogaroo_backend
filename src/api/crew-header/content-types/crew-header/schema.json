@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "crew_headers",
+  "info": {
+    "singularName": "crew-header",
+    "pluralName": "crew-headers",
+    "displayName": "crew-header",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "text"
+    },
+    "footer": {
+      "type": "text"
+    }
+  }
+}
